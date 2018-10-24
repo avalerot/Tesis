@@ -1,0 +1,2 @@
+[24-Sep-2017 11:06:35 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tesisgsg/public_html/libros/venta/archivoxls/Formularioxls.php on line 17
+[24-Sep-2017 11:06:35 America/Santiago] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/tesisgsg/public_html/libros/venta/archivoxls/Formularioxls.php on line 54

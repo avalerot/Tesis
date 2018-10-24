@@ -1,0 +1,86 @@
+<table>
+<tr>
+<td><b>TipoDTE</b></td>
+<td><b>Folio</b></td>
+<td><b>FechaEmision</b></td>
+<td><b>TipoDespacho</b></td>
+<td><b>FormaPago</b></td>
+<td><b>RutEmisor</b></td>
+<td><b>RazonSocialEmisor</b></td>
+<td><b>GiroEmisor</b></td>
+<td><b>Acteco</b></td>
+<td><b>CodSIISucursal</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>RutReceptor</b></td>
+<td><b>RazonSocialReceptor</b></td>
+<td><b>GiroReceptor</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>Total-Neto</b></td>
+<td><b>Total-Exento</b></td>
+<td><b>Total-IVA</b></td>
+<td><b>Total-MontoTotal</b></td>
+<td><b>MontoPeriodo</b></td>
+<td><b>Monto-NoFacturable</b></td>
+<td><b>Saldo-Anterior</b></td>
+<td><b>ValorPagar</b></td>
+</tr>
+<tr>
+<td>33</td>
+<td>337</td>
+<td>2017-05-22</td>
+<td></td>
+<td></td>
+<td>9717858-5</td>
+<td>JAIME DO SANTOS PALOMINOS RODRIGUEZ</td>
+<td>CARNICERIA , ROTISERIA Y FUENTE DE SODA AL PASO</td>
+<td>522020</td>
+<td>066617605</td>
+<td>CHACABUCO 349</td>
+<td>SAN FELIPE</td>
+<td>SAN FELIPE</td>
+<td>76296042-7</td>
+<td>CONSTRUCTORA CYGNUS LIMITADA</td>
+<td>CONSTRUCCION DE EDIFICIOS COMPLETOS O DE</td>
+<td>LONDRES 465 B</td>
+<td>VINA DEL MAR</td>
+<td>VINA DEL MAR</td>
+<td>28698</td>
+<td></td>
+<td>5453</td>
+<td>34151</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>DETALLE</b></td>
+<td><b>Item</b></td>
+<td><b>Cod</b></td>
+<td><b>Codigo</b></td>
+<td><b>Descripcion</b></td>
+<td><b>Cantidad</b></td>
+<td><b>Precio</b></td>
+<td><b>Descuento %</b></td>
+<td><b>Descuento $</b></td>
+<td><b>Cod.ImptoAdic</b></td>
+<td><b>Monto-Item</b></td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Varios Pollos express</td>
+<td>1.00</td>
+<td>28698.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td>28698</td>
+</tr>
+<tr><td></td></tr>
+</table>

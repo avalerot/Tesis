@@ -1,0 +1,1328 @@
+<table>
+<tr>
+<td><b>TipoDTE</b></td>
+<td><b>Folio</b></td>
+<td><b>FechaEmision</b></td>
+<td><b>TipoDespacho</b></td>
+<td><b>FormaPago</b></td>
+<td><b>RutEmisor</b></td>
+<td><b>RazonSocialEmisor</b></td>
+<td><b>GiroEmisor</b></td>
+<td><b>Acteco</b></td>
+<td><b>CodSIISucursal</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>RutReceptor</b></td>
+<td><b>RazonSocialReceptor</b></td>
+<td><b>GiroReceptor</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>Total-Neto</b></td>
+<td><b>Total-Exento</b></td>
+<td><b>Total-IVA</b></td>
+<td><b>Total-MontoTotal</b></td>
+<td><b>MontoPeriodo</b></td>
+<td><b>Monto-NoFacturable</b></td>
+<td><b>Saldo-Anterior</b></td>
+<td><b>ValorPagar</b></td>
+</tr>
+<tr>
+<td>33</td>
+<td>12</td>
+<td>2017-04-30</td>
+<td></td>
+<td></td>
+<td>79588900-0</td>
+<td>AGRICOLA SAT LIMITADA</td>
+<td>VIDES-VIVEROS</td>
+<td>011240</td>
+<td>004793482</td>
+<td>NAVARRO 228</td>
+<td>SAN FELIPE</td>
+<td>san felipe</td>
+<td>76754440-5</td>
+<td>SOC ELAB COMZ Y DIST DE CHICHA Y OTROS PRODUCTOS Y SERVICIOS ALIMENTIC</td>
+<td>MAYORISTAS DE VINOS Y BEBIDAS ALCOHOLICA</td>
+<td>CASAS CHICAS DE QUILPUE 6</td>
+<td>SAN FELIPE</td>
+<td>SAN FELIPE</td>
+<td>770000</td>
+<td></td>
+<td>146300</td>
+<td>916300</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>DETALLE</b></td>
+<td><b>Item</b></td>
+<td><b>Cod</b></td>
+<td><b>Codigo</b></td>
+<td><b>Descripcion</b></td>
+<td><b>Cantidad</b></td>
+<td><b>Precio</b></td>
+<td><b>Descuento %</b></td>
+<td><b>Descuento $</b></td>
+<td><b>Cod.ImptoAdic</b></td>
+<td><b>Monto-Item</b></td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>uvas red globe descarte</td>
+<td>22000.00</td>
+<td>35.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td>770000</td>
+</tr>
+<tr><td></td></tr>
+<tr>
+<td><b>TipoDTE</b></td>
+<td><b>Folio</b></td>
+<td><b>FechaEmision</b></td>
+<td><b>TipoDespacho</b></td>
+<td><b>FormaPago</b></td>
+<td><b>RutEmisor</b></td>
+<td><b>RazonSocialEmisor</b></td>
+<td><b>GiroEmisor</b></td>
+<td><b>Acteco</b></td>
+<td><b>CodSIISucursal</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>RutReceptor</b></td>
+<td><b>RazonSocialReceptor</b></td>
+<td><b>GiroReceptor</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>Total-Neto</b></td>
+<td><b>Total-Exento</b></td>
+<td><b>Total-IVA</b></td>
+<td><b>Total-MontoTotal</b></td>
+<td><b>MontoPeriodo</b></td>
+<td><b>Monto-NoFacturable</b></td>
+<td><b>Saldo-Anterior</b></td>
+<td><b>ValorPagar</b></td>
+</tr>
+<tr>
+<td>33</td>
+<td>11</td>
+<td>2017-04-30</td>
+<td></td>
+<td></td>
+<td>79588900-0</td>
+<td>AGRICOLA SAT LIMITADA</td>
+<td>VIDES-VIVEROS</td>
+<td>011240</td>
+<td>004793482</td>
+<td>NAVARRO 228</td>
+<td>SAN FELIPE</td>
+<td>san felipe</td>
+<td>76411988-6</td>
+<td>EXPORTADORA BB TRADING SPA</td>
+<td>CORRETAJE DE PRODUCTOS AGRICOLAS</td>
+<td>ROSARIO NORTE 100  1901</td>
+<td>LAS CONDES</td>
+<td>SANTIAGO</td>
+<td>1093284</td>
+<td></td>
+<td>207724</td>
+<td>1301008</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>DETALLE</b></td>
+<td><b>Item</b></td>
+<td><b>Cod</b></td>
+<td><b>Codigo</b></td>
+<td><b>Descripcion</b></td>
+<td><b>Cantidad</b></td>
+<td><b>Precio</b></td>
+<td><b>Descuento %</b></td>
+<td><b>Descuento $</b></td>
+<td><b>Cod.ImptoAdic</b></td>
+<td><b>Monto-Item</b></td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>uvas red globe</td>
+<td>1582.60</td>
+<td>331.33</td>
+<td></td>
+<td></td>
+<td></td>
+<td>524363</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>uvas red globe</td>
+<td>615.00</td>
+<td>397.60</td>
+<td></td>
+<td></td>
+<td></td>
+<td>244524</td>
+</tr>
+<tr>
+<td></td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>uvas red globe</td>
+<td>172.20</td>
+<td>331.33</td>
+<td></td>
+<td></td>
+<td></td>
+<td>57055</td>
+</tr>
+<tr>
+<td></td>
+<td>4</td>
+<td></td>
+<td></td>
+<td>uvas red globe</td>
+<td>246.00</td>
+<td>265.06</td>
+<td></td>
+<td></td>
+<td></td>
+<td>65205</td>
+</tr>
+<tr>
+<td></td>
+<td>5</td>
+<td></td>
+<td></td>
+<td>uvas red globe</td>
+<td>467.40</td>
+<td>265.06</td>
+<td></td>
+<td></td>
+<td></td>
+<td>123889</td>
+</tr>
+<tr>
+<td></td>
+<td>6</td>
+<td></td>
+<td></td>
+<td>uvas red globe</td>
+<td>196.80</td>
+<td>397.60</td>
+<td></td>
+<td></td>
+<td></td>
+<td>78248</td>
+</tr>
+<tr><td></td></tr>
+<tr>
+<td><b>TipoDTE</b></td>
+<td><b>Folio</b></td>
+<td><b>FechaEmision</b></td>
+<td><b>TipoDespacho</b></td>
+<td><b>FormaPago</b></td>
+<td><b>RutEmisor</b></td>
+<td><b>RazonSocialEmisor</b></td>
+<td><b>GiroEmisor</b></td>
+<td><b>Acteco</b></td>
+<td><b>CodSIISucursal</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>RutReceptor</b></td>
+<td><b>RazonSocialReceptor</b></td>
+<td><b>GiroReceptor</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>Total-Neto</b></td>
+<td><b>Total-Exento</b></td>
+<td><b>Total-IVA</b></td>
+<td><b>Total-MontoTotal</b></td>
+<td><b>MontoPeriodo</b></td>
+<td><b>Monto-NoFacturable</b></td>
+<td><b>Saldo-Anterior</b></td>
+<td><b>ValorPagar</b></td>
+</tr>
+<tr>
+<td>33</td>
+<td>10</td>
+<td>2017-03-31</td>
+<td></td>
+<td></td>
+<td>79588900-0</td>
+<td>AGRICOLA SAT LIMITADA</td>
+<td>VIDES-VIVEROS</td>
+<td>011240</td>
+<td>004793482</td>
+<td>NAVARRO 228</td>
+<td>SAN FELIPE</td>
+<td>san felipe</td>
+<td>76754440-5</td>
+<td>SOC ELAB COMZ Y DIST DE CHICHA Y OTROS PRODUCTOS Y SERVICIOS ALIMENTIC</td>
+<td>MAYORISTAS DE VINOS Y BEBIDAS ALCOHOLICA</td>
+<td>CASAS CHICAS DE QUILPUE 6</td>
+<td>SAN FELIPE</td>
+<td>SAN FELIPE</td>
+<td>350000</td>
+<td></td>
+<td>66500</td>
+<td>416500</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>DETALLE</b></td>
+<td><b>Item</b></td>
+<td><b>Cod</b></td>
+<td><b>Codigo</b></td>
+<td><b>Descripcion</b></td>
+<td><b>Cantidad</b></td>
+<td><b>Precio</b></td>
+<td><b>Descuento %</b></td>
+<td><b>Descuento $</b></td>
+<td><b>Cod.ImptoAdic</b></td>
+<td><b>Monto-Item</b></td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>uvas red globe descarte</td>
+<td>10000.00</td>
+<td>35.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td>350000</td>
+</tr>
+<tr><td></td></tr>
+<tr>
+<td><b>TipoDTE</b></td>
+<td><b>Folio</b></td>
+<td><b>FechaEmision</b></td>
+<td><b>TipoDespacho</b></td>
+<td><b>FormaPago</b></td>
+<td><b>RutEmisor</b></td>
+<td><b>RazonSocialEmisor</b></td>
+<td><b>GiroEmisor</b></td>
+<td><b>Acteco</b></td>
+<td><b>CodSIISucursal</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>RutReceptor</b></td>
+<td><b>RazonSocialReceptor</b></td>
+<td><b>GiroReceptor</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>Total-Neto</b></td>
+<td><b>Total-Exento</b></td>
+<td><b>Total-IVA</b></td>
+<td><b>Total-MontoTotal</b></td>
+<td><b>MontoPeriodo</b></td>
+<td><b>Monto-NoFacturable</b></td>
+<td><b>Saldo-Anterior</b></td>
+<td><b>ValorPagar</b></td>
+</tr>
+<tr>
+<td>33</td>
+<td>9</td>
+<td>2017-03-31</td>
+<td></td>
+<td></td>
+<td>79588900-0</td>
+<td>AGRICOLA SAT LIMITADA</td>
+<td>VIDES-VIVEROS</td>
+<td>011240</td>
+<td>004793482</td>
+<td>NAVARRO 228</td>
+<td>SAN FELIPE</td>
+<td>san felipe</td>
+<td>76411988-6</td>
+<td>EXPORTADORA BB TRADING SPA</td>
+<td>CORRETAJE DE PRODUCTOS AGRICOLAS</td>
+<td>ROSARIO NORTE 100  1901</td>
+<td>LAS CONDES</td>
+<td>SANTIAGO</td>
+<td>30826460</td>
+<td></td>
+<td>5857027</td>
+<td>36683487</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>DETALLE</b></td>
+<td><b>Item</b></td>
+<td><b>Cod</b></td>
+<td><b>Codigo</b></td>
+<td><b>Descripcion</b></td>
+<td><b>Cantidad</b></td>
+<td><b>Precio</b></td>
+<td><b>Descuento %</b></td>
+<td><b>Descuento $</b></td>
+<td><b>Cod.ImptoAdic</b></td>
+<td><b>Monto-Item</b></td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>uvas red globe</td>
+<td>26502.40</td>
+<td>322.60</td>
+<td></td>
+<td></td>
+<td></td>
+<td>8549674</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>uvas red globe</td>
+<td>34030.00</td>
+<td>387.11</td>
+<td></td>
+<td></td>
+<td></td>
+<td>13173353</td>
+</tr>
+<tr>
+<td></td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>uvas red globe</td>
+<td>7035.60</td>
+<td>483.89</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3404456</td>
+</tr>
+<tr>
+<td></td>
+<td>4</td>
+<td></td>
+<td></td>
+<td>uvas red globe</td>
+<td>2132.00</td>
+<td>483.89</td>
+<td></td>
+<td></td>
+<td></td>
+<td>1031653</td>
+</tr>
+<tr>
+<td></td>
+<td>5</td>
+<td></td>
+<td></td>
+<td>uvas red globe</td>
+<td>3804.80</td>
+<td>322.60</td>
+<td></td>
+<td></td>
+<td></td>
+<td>1227428</td>
+</tr>
+<tr>
+<td></td>
+<td>6</td>
+<td></td>
+<td></td>
+<td>uvas red globe</td>
+<td>795.40</td>
+<td>258.08</td>
+<td></td>
+<td></td>
+<td></td>
+<td>205277</td>
+</tr>
+<tr>
+<td></td>
+<td>7</td>
+<td></td>
+<td></td>
+<td>uvas red globe</td>
+<td>762.60</td>
+<td>258.08</td>
+<td></td>
+<td></td>
+<td></td>
+<td>196812</td>
+</tr>
+<tr>
+<td></td>
+<td>8</td>
+<td></td>
+<td></td>
+<td>uvas red globe</td>
+<td>7847.40</td>
+<td>387.11</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3037807</td>
+</tr>
+<tr><td></td></tr>
+<tr>
+<td><b>TipoDTE</b></td>
+<td><b>Folio</b></td>
+<td><b>FechaEmision</b></td>
+<td><b>TipoDespacho</b></td>
+<td><b>FormaPago</b></td>
+<td><b>RutEmisor</b></td>
+<td><b>RazonSocialEmisor</b></td>
+<td><b>GiroEmisor</b></td>
+<td><b>Acteco</b></td>
+<td><b>CodSIISucursal</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>RutReceptor</b></td>
+<td><b>RazonSocialReceptor</b></td>
+<td><b>GiroReceptor</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>Total-Neto</b></td>
+<td><b>Total-Exento</b></td>
+<td><b>Total-IVA</b></td>
+<td><b>Total-MontoTotal</b></td>
+<td><b>MontoPeriodo</b></td>
+<td><b>Monto-NoFacturable</b></td>
+<td><b>Saldo-Anterior</b></td>
+<td><b>ValorPagar</b></td>
+</tr>
+<tr>
+<td>33</td>
+<td>8</td>
+<td>2017-02-28</td>
+<td></td>
+<td></td>
+<td>79588900-0</td>
+<td>AGRICOLA SAT LIMITADA</td>
+<td>VIDES-VIVEROS</td>
+<td>011240</td>
+<td>004793482</td>
+<td>NAVARRO 228</td>
+<td>SAN FELIPE</td>
+<td>SAN FELIPE</td>
+<td>76411988-6</td>
+<td>EXPORTADORA BB TRADING SPA</td>
+<td>CORRETAJE DE PRODUCTOS AGRICOLAS</td>
+<td>ROSARIO NORTE 100  1901</td>
+<td>LAS CONDES</td>
+<td>SANTIAGO</td>
+<td>10476808</td>
+<td></td>
+<td>1990594</td>
+<td>12467402</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>DETALLE</b></td>
+<td><b>Item</b></td>
+<td><b>Cod</b></td>
+<td><b>Codigo</b></td>
+<td><b>Descripcion</b></td>
+<td><b>Cantidad</b></td>
+<td><b>Precio</b></td>
+<td><b>Descuento %</b></td>
+<td><b>Descuento $</b></td>
+<td><b>Cod.ImptoAdic</b></td>
+<td><b>Monto-Item</b></td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>uvas red globe</td>
+<td>10651.80</td>
+<td>324.44</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3455870</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>uvas red globe</td>
+<td>14989.60</td>
+<td>389.32</td>
+<td></td>
+<td></td>
+<td></td>
+<td>5835751</td>
+</tr>
+<tr>
+<td></td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>uvas red globe</td>
+<td>2435.40</td>
+<td>486.65</td>
+<td></td>
+<td></td>
+<td></td>
+<td>1185187</td>
+</tr>
+<tr><td></td></tr>
+<tr>
+<td><b>TipoDTE</b></td>
+<td><b>Folio</b></td>
+<td><b>FechaEmision</b></td>
+<td><b>TipoDespacho</b></td>
+<td><b>FormaPago</b></td>
+<td><b>RutEmisor</b></td>
+<td><b>RazonSocialEmisor</b></td>
+<td><b>GiroEmisor</b></td>
+<td><b>Acteco</b></td>
+<td><b>CodSIISucursal</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>RutReceptor</b></td>
+<td><b>RazonSocialReceptor</b></td>
+<td><b>GiroReceptor</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>Total-Neto</b></td>
+<td><b>Total-Exento</b></td>
+<td><b>Total-IVA</b></td>
+<td><b>Total-MontoTotal</b></td>
+<td><b>MontoPeriodo</b></td>
+<td><b>Monto-NoFacturable</b></td>
+<td><b>Saldo-Anterior</b></td>
+<td><b>ValorPagar</b></td>
+</tr>
+<tr>
+<td>33</td>
+<td>7</td>
+<td>2017-02-28</td>
+<td></td>
+<td></td>
+<td>79588900-0</td>
+<td>AGRICOLA SAT LIMITADA</td>
+<td>VIDES-VIVEROS</td>
+<td>011240</td>
+<td>004793482</td>
+<td>NAVARRO 228</td>
+<td>SAN FELIPE</td>
+<td>San Felipe</td>
+<td>11730122-2</td>
+<td>MARCELO ARIEL FAJARDO PAEZ</td>
+<td>COSECHA, PODA, AMARRE Y LABORES</td>
+<td>JOSE CARRERA BLOCK 615 D.31   TRES CARRERA</td>
+<td>SANTA MARIA</td>
+<td>SANTA MARIA</td>
+<td>976620</td>
+<td></td>
+<td>185558</td>
+<td>1162178</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>DETALLE</b></td>
+<td><b>Item</b></td>
+<td><b>Cod</b></td>
+<td><b>Codigo</b></td>
+<td><b>Descripcion</b></td>
+<td><b>Cantidad</b></td>
+<td><b>Precio</b></td>
+<td><b>Descuento %</b></td>
+<td><b>Descuento $</b></td>
+<td><b>Cod.ImptoAdic</b></td>
+<td><b>Monto-Item</b></td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>uva flame descarte parron</td>
+<td>32554.00</td>
+<td>30.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td>976620</td>
+</tr>
+<tr><td></td></tr>
+<tr>
+<td><b>TipoDTE</b></td>
+<td><b>Folio</b></td>
+<td><b>FechaEmision</b></td>
+<td><b>TipoDespacho</b></td>
+<td><b>FormaPago</b></td>
+<td><b>RutEmisor</b></td>
+<td><b>RazonSocialEmisor</b></td>
+<td><b>GiroEmisor</b></td>
+<td><b>Acteco</b></td>
+<td><b>CodSIISucursal</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>RutReceptor</b></td>
+<td><b>RazonSocialReceptor</b></td>
+<td><b>GiroReceptor</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>Total-Neto</b></td>
+<td><b>Total-Exento</b></td>
+<td><b>Total-IVA</b></td>
+<td><b>Total-MontoTotal</b></td>
+<td><b>MontoPeriodo</b></td>
+<td><b>Monto-NoFacturable</b></td>
+<td><b>Saldo-Anterior</b></td>
+<td><b>ValorPagar</b></td>
+</tr>
+<tr>
+<td>33</td>
+<td>6</td>
+<td>2017-01-31</td>
+<td></td>
+<td></td>
+<td>79588900-0</td>
+<td>AGRICOLA SAT LIMITADA</td>
+<td>VIDES-VIVEROS</td>
+<td>011240</td>
+<td>004793482</td>
+<td>NAVARRO 228</td>
+<td>SAN FELIPE</td>
+<td>san felipe</td>
+<td>76125353-0</td>
+<td>PRESTACION DE SERVICIOS, TRANSPORTES Y COMERCIALIZADORA ARNOLDO SEGURA</td>
+<td>OTROS SERVICIOS AGRICOLAS N.C.P.</td>
+<td>EL MOLINO 225</td>
+<td>SAN FELIPE</td>
+<td>SAN FELIPE</td>
+<td>2545200</td>
+<td></td>
+<td>483588</td>
+<td>3028788</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>DETALLE</b></td>
+<td><b>Item</b></td>
+<td><b>Cod</b></td>
+<td><b>Codigo</b></td>
+<td><b>Descripcion</b></td>
+<td><b>Cantidad</b></td>
+<td><b>Precio</b></td>
+<td><b>Descuento %</b></td>
+<td><b>Descuento $</b></td>
+<td><b>Cod.ImptoAdic</b></td>
+<td><b>Monto-Item</b></td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>uva flame descarte parron</td>
+<td>21210.00</td>
+<td>120.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td>2545200</td>
+</tr>
+<tr><td></td></tr>
+<tr>
+<td><b>TipoDTE</b></td>
+<td><b>Folio</b></td>
+<td><b>FechaEmision</b></td>
+<td><b>TipoDespacho</b></td>
+<td><b>FormaPago</b></td>
+<td><b>RutEmisor</b></td>
+<td><b>RazonSocialEmisor</b></td>
+<td><b>GiroEmisor</b></td>
+<td><b>Acteco</b></td>
+<td><b>CodSIISucursal</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>RutReceptor</b></td>
+<td><b>RazonSocialReceptor</b></td>
+<td><b>GiroReceptor</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>Total-Neto</b></td>
+<td><b>Total-Exento</b></td>
+<td><b>Total-IVA</b></td>
+<td><b>Total-MontoTotal</b></td>
+<td><b>MontoPeriodo</b></td>
+<td><b>Monto-NoFacturable</b></td>
+<td><b>Saldo-Anterior</b></td>
+<td><b>ValorPagar</b></td>
+</tr>
+<tr>
+<td>33</td>
+<td>5</td>
+<td>2017-01-31</td>
+<td></td>
+<td></td>
+<td>79588900-0</td>
+<td>AGRICOLA SAT LIMITADA</td>
+<td>VIDES-VIVEROS</td>
+<td>011240</td>
+<td>004793482</td>
+<td>NAVARRO 228</td>
+<td>SAN FELIPE</td>
+<td>san felipe</td>
+<td>8650387-5</td>
+<td>ARNOLDO DEL TRANSITO SEGURA MUNOZ</td>
+<td>OTROS SERVICIOS AGRICOLAS N.C.P.</td>
+<td>EL MOLINO 225   POBL YUNGAY</td>
+<td>SAN FELIPE</td>
+<td>SAN FELIPE</td>
+<td>576000</td>
+<td></td>
+<td>109440</td>
+<td>685440</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>DETALLE</b></td>
+<td><b>Item</b></td>
+<td><b>Cod</b></td>
+<td><b>Codigo</b></td>
+<td><b>Descripcion</b></td>
+<td><b>Cantidad</b></td>
+<td><b>Precio</b></td>
+<td><b>Descuento %</b></td>
+<td><b>Descuento $</b></td>
+<td><b>Cod.ImptoAdic</b></td>
+<td><b>Monto-Item</b></td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>uva flame desecho packing</td>
+<td>4800.00</td>
+<td>120.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td>576000</td>
+</tr>
+<tr><td></td></tr>
+<tr>
+<td><b>TipoDTE</b></td>
+<td><b>Folio</b></td>
+<td><b>FechaEmision</b></td>
+<td><b>TipoDespacho</b></td>
+<td><b>FormaPago</b></td>
+<td><b>RutEmisor</b></td>
+<td><b>RazonSocialEmisor</b></td>
+<td><b>GiroEmisor</b></td>
+<td><b>Acteco</b></td>
+<td><b>CodSIISucursal</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>RutReceptor</b></td>
+<td><b>RazonSocialReceptor</b></td>
+<td><b>GiroReceptor</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>Total-Neto</b></td>
+<td><b>Total-Exento</b></td>
+<td><b>Total-IVA</b></td>
+<td><b>Total-MontoTotal</b></td>
+<td><b>MontoPeriodo</b></td>
+<td><b>Monto-NoFacturable</b></td>
+<td><b>Saldo-Anterior</b></td>
+<td><b>ValorPagar</b></td>
+</tr>
+<tr>
+<td>33</td>
+<td>4</td>
+<td>2017-01-31</td>
+<td></td>
+<td></td>
+<td>79588900-0</td>
+<td>AGRICOLA SAT LIMITADA</td>
+<td>VIDES-VIVEROS</td>
+<td>011240</td>
+<td>004793482</td>
+<td>NAVARRO 228</td>
+<td>SAN FELIPE</td>
+<td>san felipe</td>
+<td>76411988-6</td>
+<td>EXPORTADORA BB TRADING SPA</td>
+<td>CORRETAJE DE PRODUCTOS AGRICOLAS</td>
+<td>ROSARIO NORTE 100  1901</td>
+<td>LAS CONDES</td>
+<td>SANTIAGO</td>
+<td>33684885</td>
+<td></td>
+<td>6400128</td>
+<td>40085013</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>DETALLE</b></td>
+<td><b>Item</b></td>
+<td><b>Cod</b></td>
+<td><b>Codigo</b></td>
+<td><b>Descripcion</b></td>
+<td><b>Cantidad</b></td>
+<td><b>Precio</b></td>
+<td><b>Descuento %</b></td>
+<td><b>Descuento $</b></td>
+<td><b>Cod.ImptoAdic</b></td>
+<td><b>Monto-Item</b></td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>uva flame seedless</td>
+<td>20783.10</td>
+<td>667.29</td>
+<td></td>
+<td></td>
+<td></td>
+<td>13868355</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>uva flame seedless</td>
+<td>12782.30</td>
+<td>800.75</td>
+<td></td>
+<td></td>
+<td></td>
+<td>10235427</td>
+</tr>
+<tr>
+<td></td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>uva flame seedless</td>
+<td>9963.00</td>
+<td>800.75</td>
+<td></td>
+<td></td>
+<td></td>
+<td>7977872</td>
+</tr>
+<tr>
+<td></td>
+<td>4</td>
+<td></td>
+<td></td>
+<td>uva flame seedless</td>
+<td>1476.00</td>
+<td>800.75</td>
+<td></td>
+<td></td>
+<td></td>
+<td>1181907</td>
+</tr>
+<tr>
+<td></td>
+<td>5</td>
+<td></td>
+<td></td>
+<td>uva flame seedless</td>
+<td>902.00</td>
+<td>467.10</td>
+<td></td>
+<td></td>
+<td></td>
+<td>421324</td>
+</tr>
+<tr><td></td></tr>
+<tr>
+<td><b>TipoDTE</b></td>
+<td><b>Folio</b></td>
+<td><b>FechaEmision</b></td>
+<td><b>TipoDespacho</b></td>
+<td><b>FormaPago</b></td>
+<td><b>RutEmisor</b></td>
+<td><b>RazonSocialEmisor</b></td>
+<td><b>GiroEmisor</b></td>
+<td><b>Acteco</b></td>
+<td><b>CodSIISucursal</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>RutReceptor</b></td>
+<td><b>RazonSocialReceptor</b></td>
+<td><b>GiroReceptor</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>Total-Neto</b></td>
+<td><b>Total-Exento</b></td>
+<td><b>Total-IVA</b></td>
+<td><b>Total-MontoTotal</b></td>
+<td><b>MontoPeriodo</b></td>
+<td><b>Monto-NoFacturable</b></td>
+<td><b>Saldo-Anterior</b></td>
+<td><b>ValorPagar</b></td>
+</tr>
+<tr>
+<td>33</td>
+<td>3</td>
+<td>2017-01-30</td>
+<td></td>
+<td></td>
+<td>79588900-0</td>
+<td>AGRICOLA SAT LIMITADA</td>
+<td>VIDES-VIVEROS</td>
+<td>011240</td>
+<td>004793482</td>
+<td>NAVARRO 228</td>
+<td>SAN FELIPE</td>
+<td>san felipe</td>
+<td>76125353-0</td>
+<td>PRESTACION DE SERVICIOS, TRANSPORTES Y COMERCIALIZADORA ARNOLDO SEGURA</td>
+<td>OTROS SERVICIOS AGRICOLAS N.C.P.</td>
+<td>EL MOLINO 225</td>
+<td>SAN FELIPE</td>
+<td>SAN FELIPE</td>
+<td>1269600</td>
+<td></td>
+<td>241224</td>
+<td>1510824</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>DETALLE</b></td>
+<td><b>Item</b></td>
+<td><b>Cod</b></td>
+<td><b>Codigo</b></td>
+<td><b>Descripcion</b></td>
+<td><b>Cantidad</b></td>
+<td><b>Precio</b></td>
+<td><b>Descuento %</b></td>
+<td><b>Descuento $</b></td>
+<td><b>Cod.ImptoAdic</b></td>
+<td><b>Monto-Item</b></td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>uva flame descarte</td>
+<td>10580.00</td>
+<td>120.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td>1269600</td>
+</tr>
+<tr><td></td></tr>
+<tr>
+<td><b>TipoDTE</b></td>
+<td><b>Folio</b></td>
+<td><b>FechaEmision</b></td>
+<td><b>TipoDespacho</b></td>
+<td><b>FormaPago</b></td>
+<td><b>RutEmisor</b></td>
+<td><b>RazonSocialEmisor</b></td>
+<td><b>GiroEmisor</b></td>
+<td><b>Acteco</b></td>
+<td><b>CodSIISucursal</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>RutReceptor</b></td>
+<td><b>RazonSocialReceptor</b></td>
+<td><b>GiroReceptor</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>Total-Neto</b></td>
+<td><b>Total-Exento</b></td>
+<td><b>Total-IVA</b></td>
+<td><b>Total-MontoTotal</b></td>
+<td><b>MontoPeriodo</b></td>
+<td><b>Monto-NoFacturable</b></td>
+<td><b>Saldo-Anterior</b></td>
+<td><b>ValorPagar</b></td>
+</tr>
+<tr>
+<td>33</td>
+<td>2</td>
+<td>2016-11-30</td>
+<td></td>
+<td></td>
+<td>79588900-0</td>
+<td>AGRICOLA SAT LIMITADA</td>
+<td>VIDES-VIVEROS</td>
+<td>011240</td>
+<td>004793482</td>
+<td>NAVARRO 228</td>
+<td>SAN FELIPE</td>
+<td>San Felipe</td>
+<td>76411988-6</td>
+<td>EXPORTADORA BB TRADING SPA</td>
+<td>CORRETAJE DE PRODUCTOS AGRICOLAS</td>
+<td>ROSARIO NORTE 100  1901</td>
+<td>LAS CONDES</td>
+<td>SANTIAGO</td>
+<td>2821476</td>
+<td></td>
+<td>536080</td>
+<td>3357556</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>DETALLE</b></td>
+<td><b>Item</b></td>
+<td><b>Cod</b></td>
+<td><b>Codigo</b></td>
+<td><b>Descripcion</b></td>
+<td><b>Cantidad</b></td>
+<td><b>Precio</b></td>
+<td><b>Descuento %</b></td>
+<td><b>Descuento $</b></td>
+<td><b>Cod.ImptoAdic</b></td>
+<td><b>Monto-Item</b></td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>bonificacion premio</td>
+<td>4281.45</td>
+<td>659.00</td>
+<td></td>
+<td></td>
+<td></td>
+<td>2821476</td>
+</tr>
+<tr><td></td></tr>
+<tr>
+<td><b>TipoDTE</b></td>
+<td><b>Folio</b></td>
+<td><b>FechaEmision</b></td>
+<td><b>TipoDespacho</b></td>
+<td><b>FormaPago</b></td>
+<td><b>RutEmisor</b></td>
+<td><b>RazonSocialEmisor</b></td>
+<td><b>GiroEmisor</b></td>
+<td><b>Acteco</b></td>
+<td><b>CodSIISucursal</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>RutReceptor</b></td>
+<td><b>RazonSocialReceptor</b></td>
+<td><b>GiroReceptor</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>Total-Neto</b></td>
+<td><b>Total-Exento</b></td>
+<td><b>Total-IVA</b></td>
+<td><b>Total-MontoTotal</b></td>
+<td><b>MontoPeriodo</b></td>
+<td><b>Monto-NoFacturable</b></td>
+<td><b>Saldo-Anterior</b></td>
+<td><b>ValorPagar</b></td>
+</tr>
+<tr>
+<td>33</td>
+<td>1</td>
+<td>2016-11-30</td>
+<td></td>
+<td></td>
+<td>79588900-0</td>
+<td>AGRICOLA SAT LIMITADA</td>
+<td>VIDES-VIVEROS</td>
+<td>011240</td>
+<td>004793482</td>
+<td>NAVARRO 228</td>
+<td>SAN FELIPE</td>
+<td>San Felipe</td>
+<td>76411988-6</td>
+<td>EXPORTADORA BB TRADING SPA</td>
+<td>CORRETAJE DE PRODUCTOS AGRICOLAS</td>
+<td>ROSARIO NORTE 100  1901</td>
+<td>LAS CONDES</td>
+<td>SANTIAGO</td>
+<td>2087454</td>
+<td></td>
+<td>396616</td>
+<td>2484070</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>DETALLE</b></td>
+<td><b>Item</b></td>
+<td><b>Cod</b></td>
+<td><b>Codigo</b></td>
+<td><b>Descripcion</b></td>
+<td><b>Cantidad</b></td>
+<td><b>Precio</b></td>
+<td><b>Descuento %</b></td>
+<td><b>Descuento $</b></td>
+<td><b>Cod.ImptoAdic</b></td>
+<td><b>Monto-Item</b></td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>bonificacion por volumen</td>
+<td>3089.00</td>
+<td>675.77</td>
+<td></td>
+<td></td>
+<td></td>
+<td>2087454</td>
+</tr>
+<tr><td></td></tr>
+<tr>
+<td><b>TipoDTE</b></td>
+<td><b>Folio</b></td>
+<td><b>FechaEmision</b></td>
+<td><b>TipoDespacho</b></td>
+<td><b>FormaPago</b></td>
+<td><b>RutEmisor</b></td>
+<td><b>RazonSocialEmisor</b></td>
+<td><b>GiroEmisor</b></td>
+<td><b>Acteco</b></td>
+<td><b>CodSIISucursal</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>RutReceptor</b></td>
+<td><b>RazonSocialReceptor</b></td>
+<td><b>GiroReceptor</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>Total-Neto</b></td>
+<td><b>Total-Exento</b></td>
+<td><b>Total-IVA</b></td>
+<td><b>Total-MontoTotal</b></td>
+<td><b>MontoPeriodo</b></td>
+<td><b>Monto-NoFacturable</b></td>
+<td><b>Saldo-Anterior</b></td>
+<td><b>ValorPagar</b></td>
+</tr>
+<tr>
+<td>56</td>
+<td>1</td>
+<td>2016-09-29</td>
+<td></td>
+<td></td>
+<td>79588900-0</td>
+<td>AGRICOLA SAT LIMITADA</td>
+<td>VIDES-VIVEROS</td>
+<td>011240</td>
+<td>004793482</td>
+<td>NAVARRO 228</td>
+<td>SAN FELIPE</td>
+<td>SAN FELIPE</td>
+<td>76411988-6</td>
+<td>EXPORTADORA BB TRADING SPA</td>
+<td>CORRETAJE DE PRODUCTOS AGRICOLAS</td>
+<td>LA GLORIA 88</td>
+<td>LAS CONDES</td>
+<td>SANTIAGO</td>
+<td>36581682</td>
+<td></td>
+<td>6950520</td>
+<td>43532202</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>DETALLE</b></td>
+<td><b>Item</b></td>
+<td><b>Cod</b></td>
+<td><b>Codigo</b></td>
+<td><b>Descripcion</b></td>
+<td><b>Cantidad</b></td>
+<td><b>Precio</b></td>
+<td><b>Descuento %</b></td>
+<td><b>Descuento $</b></td>
+<td><b>Cod.ImptoAdic</b></td>
+<td><b>Monto-Item</b></td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>DIFERENCIADE PRECIO EN</td>
+<td>53909.96</td>
+<td>678.57</td>
+<td></td>
+<td></td>
+<td></td>
+<td>36581682</td>
+</tr>
+<tr><td></td></tr>
+</table>

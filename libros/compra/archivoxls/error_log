@@ -1,0 +1,1 @@
+[24-Sep-2017 19:29:57 America/Santiago] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/tesisgsg/public_html/libros/compra/archivoxls/Formularioxls.php on line 54

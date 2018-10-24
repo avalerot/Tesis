@@ -1,0 +1,5 @@
+[23-Sep-2017 17:36:15 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tesisgsg/public_html/libros/compra/FacturaElectronica/Form_FacturasDts.php on line 8
+[23-Sep-2017 17:36:15 America/Santiago] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/tesisgsg/public_html/libros/compra/FacturaElectronica/Form_FacturasDts.php on line 263
+[24-Sep-2017 19:04:32 America/Santiago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/tesisgsg/public_html/libros/compra/FacturaElectronica/Form_FacturasDts.php on line 310
+[24-Sep-2017 19:28:34 America/Santiago] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/tesisgsg/public_html/libros/compra/FacturaElectronica/Form_FacturasDts.php on line 263
+[25-Nov-2017 09:48:26 America/Santiago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/tesisgsg/public_html/libros/compra/FacturaElectronica/subirFacManual.php:11) in /home/tesisgsg/public_html/libros/compra/FacturaElectronica/subirFacManual.php on line 51

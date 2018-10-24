@@ -1,0 +1,9 @@
+[23-Sep-2017 17:36:29 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tesisgsg/public_html/libros/compra/notadebito/Form_FacturasDts.php on line 8
+[23-Sep-2017 17:36:29 America/Santiago] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/tesisgsg/public_html/libros/compra/notadebito/Form_FacturasDts.php on line 263
+[24-Sep-2017 11:06:26 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tesisgsg/public_html/libros/compra/notadebito/Form_FacturasDts.php on line 8
+[24-Sep-2017 11:06:26 America/Santiago] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/tesisgsg/public_html/libros/compra/notadebito/Form_FacturasDts.php on line 263
+[24-Sep-2017 19:04:27 America/Santiago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/tesisgsg/public_html/libros/compra/notadebito/Form_FacturasDts.php on line 310
+[24-Sep-2017 19:30:56 America/Santiago] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/tesisgsg/public_html/libros/compra/notadebito/Form_FacturasDts.php on line 263
+[24-Sep-2017 19:31:53 America/Santiago] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/tesisgsg/public_html/libros/compra/notadebito/Form_FacturasDts.php on line 263
+[24-Sep-2017 19:31:54 America/Santiago] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/tesisgsg/public_html/libros/compra/notadebito/Form_FacturasDts.php on line 263
+[24-Sep-2017 19:31:55 America/Santiago] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/tesisgsg/public_html/libros/compra/notadebito/Form_FacturasDts.php on line 263

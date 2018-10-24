@@ -1,0 +1,6 @@
+[24-Sep-2017 19:25:38 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tesisgsg/public_html/libros/informacion/libroventasef.php on line 37
+[24-Sep-2017 19:25:53 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tesisgsg/public_html/libros/informacion/libroventasef.php on line 37
+[24-Sep-2017 19:33:17 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tesisgsg/public_html/libros/informacion/libroventasef.php on line 37
+[24-Sep-2017 19:33:20 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tesisgsg/public_html/libros/informacion/libroventasef.php on line 37
+[02-Oct-2017 13:14:01 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tesisgsg/public_html/libros/informacion/libroventasef.php on line 37
+[02-Oct-2017 13:14:11 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tesisgsg/public_html/libros/informacion/libroventasef.php on line 37

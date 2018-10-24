@@ -1,0 +1,3 @@
+[23-Sep-2017 17:36:33 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tesisgsg/public_html/libros/compra/notacreditoelect/Form_FacturasDts.php on line 8
+[23-Sep-2017 17:36:33 America/Santiago] PHP Fatal error:  Call to a member function fetch_array() on boolean in /home/tesisgsg/public_html/libros/compra/notacreditoelect/Form_FacturasDts.php on line 263
+[24-Sep-2017 19:04:26 America/Santiago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/tesisgsg/public_html/libros/compra/notacreditoelect/Form_FacturasDts.php on line 311

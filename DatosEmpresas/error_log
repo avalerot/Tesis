@@ -1,0 +1,1 @@
+[03-Nov-2017 10:11:44 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tesisgsg/public_html/DatosEmpresas/subirEmpresa.php:15) in /home/tesisgsg/public_html/DatosEmpresas/subirEmpresa.php on line 247

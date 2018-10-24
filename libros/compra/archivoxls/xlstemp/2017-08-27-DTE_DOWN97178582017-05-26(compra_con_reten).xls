@@ -1,0 +1,1446 @@
+<table>
+<tr>
+<td><b>TipoDTE</b></td>
+<td><b>Folio</b></td>
+<td><b>FechaEmision</b></td>
+<td><b>TipoDespacho</b></td>
+<td><b>FormaPago</b></td>
+<td><b>RutEmisor</b></td>
+<td><b>RazonSocialEmisor</b></td>
+<td><b>GiroEmisor</b></td>
+<td><b>Acteco</b></td>
+<td><b>CodSIISucursal</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>RutReceptor</b></td>
+<td><b>RazonSocialReceptor</b></td>
+<td><b>GiroReceptor</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>Total-Neto</b></td>
+<td><b>Total-Exento</b></td>
+<td><b>Total-IVA</b></td>
+<td><b>Total-MontoTotal</b></td>
+<td><b>MontoPeriodo</b></td>
+<td><b>Monto-NoFacturable</b></td>
+<td><b>Saldo-Anterior</b></td>
+<td><b>ValorPagar</b></td>
+</tr>
+<tr>
+<td>33</td>
+<td>13097</td>
+<td>2017-05-02</td>
+<td></td>
+<td></td>
+<td>76554674-5</td>
+<td>DISTRIBUIDORA LOS AMIGOS SPA</td>
+<td>VENTA AL POR MAYOR Y MENOR DE PRODUCTOS DE ABARROTES HUEVOS Y OTROS</td>
+<td>512290</td>
+<td></td>
+<td>AV YUNGAY 1311 LOCAL 6</td>
+<td>SAN FELIPE</td>
+<td>SAN FELIPE</td>
+<td>9717858-5</td>
+<td>JAIME DOSANTOS PALOMINOS RODRIGUEZ</td>
+<td>CARNICERIA</td>
+<td>CHACABUCO 394</td>
+<td>SAN FELIPE</td>
+<td>SAN FELIPE</td>
+<td>78391</td>
+<td>0</td>
+<td>14894</td>
+<td>93285</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>DETALLE</b></td>
+<td><b>Item</b></td>
+<td><b>Cod</b></td>
+<td><b>Codigo</b></td>
+<td><b>Descripcion</b></td>
+<td><b>Cantidad</b></td>
+<td><b>Precio</b></td>
+<td><b>Descuento %</b></td>
+<td><b>Descuento $</b></td>
+<td><b>Cod.ImptoAdic</b></td>
+<td><b>Monto-Item</b></td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>SOPROLE LECHE NATURAL ENTERA 1 LT </td>
+<td>12.000000</td>
+<td>630.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>7560</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>SOPROLE LECHE CHOCOLATE 200 CC </td>
+<td>18.000000</td>
+<td>210.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3780</td>
+</tr>
+<tr>
+<td></td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>SOPROLE NECTAR COLACION PINA 200 CC </td>
+<td>6.000000</td>
+<td>147.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>882</td>
+</tr>
+<tr>
+<td></td>
+<td>4</td>
+<td></td>
+<td></td>
+<td>SOPROLE NECTAR COLACION NARANJA 200 CC </td>
+<td>6.000000</td>
+<td>147.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>882</td>
+</tr>
+<tr>
+<td></td>
+<td>5</td>
+<td></td>
+<td></td>
+<td>SOPROLE NECTAR COLACION MANZANA 200 CC </td>
+<td>6.000000</td>
+<td>147.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>882</td>
+</tr>
+<tr>
+<td></td>
+<td>6</td>
+<td></td>
+<td></td>
+<td>SOPROLE NECTAR COLACION DURAZNO 200 CC </td>
+<td>6.000000</td>
+<td>147.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>882</td>
+</tr>
+<tr>
+<td></td>
+<td>7</td>
+<td></td>
+<td></td>
+<td>SOPROLE NECTAR COLACION DAMASCO 200 CC </td>
+<td>6.000000</td>
+<td>147.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>882</td>
+</tr>
+<tr>
+<td></td>
+<td>8</td>
+<td></td>
+<td></td>
+<td>SOPROLE MANJARATE TRADICIONAL 125 GR</td>
+<td>15.000000</td>
+<td>353.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>5295</td>
+</tr>
+<tr>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td>SOPROLE QUESO RODDA LAMINADO 2 1 KG</td>
+<td>10.990000</td>
+<td>3739.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>41092</td>
+</tr>
+<tr>
+<td></td>
+<td>10</td>
+<td></td>
+<td></td>
+<td>SOPROLE QUESO QUILQUE LAMINADO MANTECOSO 3 4 KG</td>
+<td>3.400000</td>
+<td>3563.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>12114</td>
+</tr>
+<tr>
+<td></td>
+<td>11</td>
+<td></td>
+<td></td>
+<td>SOPROLE YOGHURT CEREAL 1 1 CHOCOLATE 140 GR</td>
+<td>6.000000</td>
+<td>345.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>2070</td>
+</tr>
+<tr>
+<td></td>
+<td>12</td>
+<td></td>
+<td></td>
+<td>SOPROLE YOGHURT CEREAL 1 1 ZUCARITAS 140 GR</td>
+<td>6.000000</td>
+<td>345.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>2070</td>
+</tr>
+<tr><td></td></tr>
+<tr>
+<td><b>TipoDTE</b></td>
+<td><b>Folio</b></td>
+<td><b>FechaEmision</b></td>
+<td><b>TipoDespacho</b></td>
+<td><b>FormaPago</b></td>
+<td><b>RutEmisor</b></td>
+<td><b>RazonSocialEmisor</b></td>
+<td><b>GiroEmisor</b></td>
+<td><b>Acteco</b></td>
+<td><b>CodSIISucursal</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>RutReceptor</b></td>
+<td><b>RazonSocialReceptor</b></td>
+<td><b>GiroReceptor</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>Total-Neto</b></td>
+<td><b>Total-Exento</b></td>
+<td><b>Total-IVA</b></td>
+<td><b>Total-MontoTotal</b></td>
+<td><b>MontoPeriodo</b></td>
+<td><b>Monto-NoFacturable</b></td>
+<td><b>Saldo-Anterior</b></td>
+<td><b>ValorPagar</b></td>
+</tr>
+<tr>
+<td>33</td>
+<td>122595</td>
+<td>2017-05-02</td>
+<td></td>
+<td>1</td>
+<td>96591760-8</td>
+<td>TRULY NOLEN CHILE S.A.</td>
+<td>CONTROL DE PLAGAS</td>
+<td>749320</td>
+<td></td>
+<td>AVDA. KENNEDY 8028</td>
+<td>VITACURA</td>
+<td>SANTIAGO</td>
+<td>9717858-5</td>
+<td>JAIME PALOMINOS RODRIGUEZ</td>
+<td>FUENTE DE SODA AL PASO</td>
+<td>MAIPU 50</td>
+<td>SAN FELIPE</td>
+<td>SAN FELIPE</td>
+<td>79684</td>
+<td></td>
+<td>15140</td>
+<td>94824</td>
+<td></td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td><b>DETALLE</b></td>
+<td><b>Item</b></td>
+<td><b>Cod</b></td>
+<td><b>Codigo</b></td>
+<td><b>Descripcion</b></td>
+<td><b>Cantidad</b></td>
+<td><b>Precio</b></td>
+<td><b>Descuento %</b></td>
+<td><b>Descuento $</b></td>
+<td><b>Cod.ImptoAdic</b></td>
+<td><b>Monto-Item</b></td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td>EAN13</td>
+<td>V1</td>
+<td>SERVICIO CONTROL DE PLAGAS</td>
+<td>1</td>
+<td>79684.000000</td>
+<td></td>
+<td></td>
+<td></td>
+<td>79684</td>
+</tr>
+<tr><td></td></tr>
+<tr>
+<td><b>TipoDTE</b></td>
+<td><b>Folio</b></td>
+<td><b>FechaEmision</b></td>
+<td><b>TipoDespacho</b></td>
+<td><b>FormaPago</b></td>
+<td><b>RutEmisor</b></td>
+<td><b>RazonSocialEmisor</b></td>
+<td><b>GiroEmisor</b></td>
+<td><b>Acteco</b></td>
+<td><b>CodSIISucursal</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>RutReceptor</b></td>
+<td><b>RazonSocialReceptor</b></td>
+<td><b>GiroReceptor</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>Total-Neto</b></td>
+<td><b>Total-Exento</b></td>
+<td><b>Total-IVA</b></td>
+<td><b>Total-MontoTotal</b></td>
+<td><b>MontoPeriodo</b></td>
+<td><b>Monto-NoFacturable</b></td>
+<td><b>Saldo-Anterior</b></td>
+<td><b>ValorPagar</b></td>
+</tr>
+<tr>
+<td>33</td>
+<td>122594</td>
+<td>2017-05-02</td>
+<td></td>
+<td>1</td>
+<td>96591760-8</td>
+<td>TRULY NOLEN CHILE S.A.</td>
+<td>CONTROL DE PLAGAS</td>
+<td>749320</td>
+<td></td>
+<td>AVDA. KENNEDY 8028</td>
+<td>VITACURA</td>
+<td>SANTIAGO</td>
+<td>9717858-5</td>
+<td>JAIME PALOMINOS RODRIGUEZ</td>
+<td>FUENTE DE SODA AL PASO</td>
+<td>CHACABUCO 349</td>
+<td>SAN FELIPE</td>
+<td>SAN FELIPE</td>
+<td>79684</td>
+<td></td>
+<td>15140</td>
+<td>94824</td>
+<td></td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td><b>DETALLE</b></td>
+<td><b>Item</b></td>
+<td><b>Cod</b></td>
+<td><b>Codigo</b></td>
+<td><b>Descripcion</b></td>
+<td><b>Cantidad</b></td>
+<td><b>Precio</b></td>
+<td><b>Descuento %</b></td>
+<td><b>Descuento $</b></td>
+<td><b>Cod.ImptoAdic</b></td>
+<td><b>Monto-Item</b></td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td>EAN13</td>
+<td>V1</td>
+<td>SERVICIO CONTROL DE PLAGAS</td>
+<td>1</td>
+<td>79684.000000</td>
+<td></td>
+<td></td>
+<td></td>
+<td>79684</td>
+</tr>
+<tr><td></td></tr>
+<tr>
+<td><b>TipoDTE</b></td>
+<td><b>Folio</b></td>
+<td><b>FechaEmision</b></td>
+<td><b>TipoDespacho</b></td>
+<td><b>FormaPago</b></td>
+<td><b>RutEmisor</b></td>
+<td><b>RazonSocialEmisor</b></td>
+<td><b>GiroEmisor</b></td>
+<td><b>Acteco</b></td>
+<td><b>CodSIISucursal</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>RutReceptor</b></td>
+<td><b>RazonSocialReceptor</b></td>
+<td><b>GiroReceptor</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>Total-Neto</b></td>
+<td><b>Total-Exento</b></td>
+<td><b>Total-IVA</b></td>
+<td><b>Total-MontoTotal</b></td>
+<td><b>MontoPeriodo</b></td>
+<td><b>Monto-NoFacturable</b></td>
+<td><b>Saldo-Anterior</b></td>
+<td><b>ValorPagar</b></td>
+</tr>
+<tr>
+<td>33</td>
+<td>791</td>
+<td>2017-05-02</td>
+<td></td>
+<td>2</td>
+<td>76117005-8</td>
+<td>AGRICOLA Y GANADERA MANUEL MORAGA ALVAREZ E.I.R.L.</td>
+<td>COMERCIALIZ VTA Y DISTRIB DE GANADO CARNE AL DETALLE Y POR MAYOR</td>
+<td>512220</td>
+<td></td>
+<td>CHAPARRO 401, Villa/Pob. CERRO CORDILLERA</td>
+<td>VALPARAISO</td>
+<td>VALPARAISO</td>
+<td>9717858-5</td>
+<td>JAIME PALOMINOS RODRIGUEZ</td>
+<td>CARNICERIA</td>
+<td>CHACABUCO 349</td>
+<td>SAN FELIPE</td>
+<td>SAN FELIPE</td>
+<td>1849600</td>
+<td></td>
+<td>351424</td>
+<td>2293504</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>DETALLE</b></td>
+<td><b>Item</b></td>
+<td><b>Cod</b></td>
+<td><b>Codigo</b></td>
+<td><b>Descripcion</b></td>
+<td><b>Cantidad</b></td>
+<td><b>Precio</b></td>
+<td><b>Descuento %</b></td>
+<td><b>Descuento $</b></td>
+<td><b>Cod.ImptoAdic</b></td>
+<td><b>Monto-Item</b></td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td>INT1</td>
+<td>V000</td>
+<td>1 ANIMAL EN VARA</td>
+<td>334.00</td>
+<td>2890.00</td>
+<td></td>
+<td></td>
+<td>18</td>
+<td>965260</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
+<td>INT1</td>
+<td>V000</td>
+<td>1 ANIMAL EN VARA</td>
+<td>306.00</td>
+<td>2890.00</td>
+<td></td>
+<td></td>
+<td>18</td>
+<td>884340</td>
+</tr>
+<tr><td></td></tr>
+<tr>
+<td><b>TipoDTE</b></td>
+<td><b>Folio</b></td>
+<td><b>FechaEmision</b></td>
+<td><b>TipoDespacho</b></td>
+<td><b>FormaPago</b></td>
+<td><b>RutEmisor</b></td>
+<td><b>RazonSocialEmisor</b></td>
+<td><b>GiroEmisor</b></td>
+<td><b>Acteco</b></td>
+<td><b>CodSIISucursal</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>RutReceptor</b></td>
+<td><b>RazonSocialReceptor</b></td>
+<td><b>GiroReceptor</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>Total-Neto</b></td>
+<td><b>Total-Exento</b></td>
+<td><b>Total-IVA</b></td>
+<td><b>Total-MontoTotal</b></td>
+<td><b>MontoPeriodo</b></td>
+<td><b>Monto-NoFacturable</b></td>
+<td><b>Saldo-Anterior</b></td>
+<td><b>ValorPagar</b></td>
+</tr>
+<tr>
+<td>33</td>
+<td>61169155</td>
+<td>2017-05-02</td>
+<td></td>
+<td>1</td>
+<td>79984240-8</td>
+<td>AGROSUPER COMERCIALIZADORA DE ALIMENTOS LTDA.</td>
+<td>MAYORISTA DE CARNES Y ELABORADOS DE AVES, CERDOS Y VACUNOS</td>
+<td>512220</td>
+<td></td>
+<td>CARRETERA GRAL SAN MARTIN N? 251</td>
+<td>SAN FELIPE</td>
+<td></td>
+<td>9717858-5</td>
+<td>Palominos Rodriguez Jaime Dosantos</td>
+<td>Rotiser?as</td>
+<td>Chacabuco 349</td>
+<td>San Felipe</td>
+<td>San Felipe de Aconca</td>
+<td>366730</td>
+<td></td>
+<td>69679</td>
+<td>436409</td>
+<td></td>
+<td></td>
+<td>436409</td>
+</tr>
+<tr>
+<td><b>DETALLE</b></td>
+<td><b>Item</b></td>
+<td><b>Cod</b></td>
+<td><b>Codigo</b></td>
+<td><b>Descripcion</b></td>
+<td><b>Cantidad</b></td>
+<td><b>Precio</b></td>
+<td><b>Descuento %</b></td>
+<td><b>Descuento $</b></td>
+<td><b>Cod.ImptoAdic</b></td>
+<td><b>Monto-Item</b></td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td>INT1</td>
+<td>1010048</td>
+<td>Pechuga Entera S?per Pollo</td>
+<td>44.000000</td>
+<td>1500.000000</td>
+<td></td>
+<td></td>
+<td></td>
+<td>66000</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
+<td>INT1</td>
+<td>1010078</td>
+<td>Trutro Entero S?per Pollo</td>
+<td>44.000000</td>
+<td>1350.000000</td>
+<td></td>
+<td></td>
+<td></td>
+<td>59400</td>
+</tr>
+<tr>
+<td></td>
+<td>3</td>
+<td>INT1</td>
+<td>1010130</td>
+<td>Trutro Ala S?per Pollo</td>
+<td>22.000000</td>
+<td>1820.000000</td>
+<td></td>
+<td></td>
+<td></td>
+<td>40040</td>
+</tr>
+<tr>
+<td></td>
+<td>4</td>
+<td>INT1</td>
+<td>1010267</td>
+<td>Pechuga Deshuesada S?per Pollo</td>
+<td>22.000000</td>
+<td>2195.000000</td>
+<td></td>
+<td></td>
+<td></td>
+<td>48290</td>
+</tr>
+<tr>
+<td></td>
+<td>5</td>
+<td>INT1</td>
+<td>1010193</td>
+<td>Pollo Sin Menudencias S?per Pollo</td>
+<td>114.000000</td>
+<td>1342.000000</td>
+<td></td>
+<td></td>
+<td></td>
+<td>153000</td>
+</tr>
+<tr><td></td></tr>
+<tr>
+<td><b>TipoDTE</b></td>
+<td><b>Folio</b></td>
+<td><b>FechaEmision</b></td>
+<td><b>TipoDespacho</b></td>
+<td><b>FormaPago</b></td>
+<td><b>RutEmisor</b></td>
+<td><b>RazonSocialEmisor</b></td>
+<td><b>GiroEmisor</b></td>
+<td><b>Acteco</b></td>
+<td><b>CodSIISucursal</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>RutReceptor</b></td>
+<td><b>RazonSocialReceptor</b></td>
+<td><b>GiroReceptor</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>Total-Neto</b></td>
+<td><b>Total-Exento</b></td>
+<td><b>Total-IVA</b></td>
+<td><b>Total-MontoTotal</b></td>
+<td><b>MontoPeriodo</b></td>
+<td><b>Monto-NoFacturable</b></td>
+<td><b>Saldo-Anterior</b></td>
+<td><b>ValorPagar</b></td>
+</tr>
+<tr>
+<td>33</td>
+<td>781</td>
+<td>2017-05-02</td>
+<td></td>
+<td>1</td>
+<td>76117005-8</td>
+<td>AGRICOLA Y GANADERA MANUEL MORAGA ALVAREZ E.I.R.L.</td>
+<td>COMERCIALIZ VTA Y DISTRIB DE GANADO CARNE AL DETALLE Y POR MAYOR</td>
+<td>512220</td>
+<td></td>
+<td>CHAPARRO 401, Villa/Pob. CERRO CORDILLERA</td>
+<td>VALPARAISO</td>
+<td>VALPARAISO</td>
+<td>9717858-5</td>
+<td>JAIME PALOMINOS RODRIGUEZ</td>
+<td>CARNICERIA</td>
+<td>CHACABUCO 349</td>
+<td>SAN FELIPE</td>
+<td>SAN FELIPE</td>
+<td>927690</td>
+<td></td>
+<td>176261</td>
+<td>1150336</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>DETALLE</b></td>
+<td><b>Item</b></td>
+<td><b>Cod</b></td>
+<td><b>Codigo</b></td>
+<td><b>Descripcion</b></td>
+<td><b>Cantidad</b></td>
+<td><b>Precio</b></td>
+<td><b>Descuento %</b></td>
+<td><b>Descuento $</b></td>
+<td><b>Cod.ImptoAdic</b></td>
+<td><b>Monto-Item</b></td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td>INT1</td>
+<td>V000</td>
+<td>1 ANIMAL EN VARA</td>
+<td>321.00</td>
+<td>2890.00</td>
+<td></td>
+<td></td>
+<td>18</td>
+<td>927690</td>
+</tr>
+<tr><td></td></tr>
+<tr>
+<td><b>TipoDTE</b></td>
+<td><b>Folio</b></td>
+<td><b>FechaEmision</b></td>
+<td><b>TipoDespacho</b></td>
+<td><b>FormaPago</b></td>
+<td><b>RutEmisor</b></td>
+<td><b>RazonSocialEmisor</b></td>
+<td><b>GiroEmisor</b></td>
+<td><b>Acteco</b></td>
+<td><b>CodSIISucursal</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>RutReceptor</b></td>
+<td><b>RazonSocialReceptor</b></td>
+<td><b>GiroReceptor</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>Total-Neto</b></td>
+<td><b>Total-Exento</b></td>
+<td><b>Total-IVA</b></td>
+<td><b>Total-MontoTotal</b></td>
+<td><b>MontoPeriodo</b></td>
+<td><b>Monto-NoFacturable</b></td>
+<td><b>Saldo-Anterior</b></td>
+<td><b>ValorPagar</b></td>
+</tr>
+<tr>
+<td>33</td>
+<td>8694</td>
+<td>2017-05-02</td>
+<td></td>
+<td></td>
+<td>76308918-5</td>
+<td>COMERCIAL CATERBEEF COMPANIA LIMITADA</td>
+<td>COMERC CONSIG Y COMISION DE PRODUC CARNICOS AL MAYOR Y MENOR EVENTOS</td>
+<td>512220</td>
+<td></td>
+<td>5 NORTE 307</td>
+<td>VINA DEL MAR</td>
+<td>VINA DEL MAR</td>
+<td>9717858-5</td>
+<td>JAIME DO SANTOS PALOMINOS RODRIGUEZ</td>
+<td>VENTA AL POR MENOR DE CARNES</td>
+<td>CHACABUCO 349</td>
+<td>SAN FELIPE</td>
+<td>SAN FELIPE</td>
+<td>2330262</td>
+<td>0</td>
+<td>442750</td>
+<td>2773012</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>DETALLE</b></td>
+<td><b>Item</b></td>
+<td><b>Cod</b></td>
+<td><b>Codigo</b></td>
+<td><b>Descripcion</b></td>
+<td><b>Cantidad</b></td>
+<td><b>Precio</b></td>
+<td><b>Descuento %</b></td>
+<td><b>Descuento $</b></td>
+<td><b>Cod.ImptoAdic</b></td>
+<td><b>Monto-Item</b></td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>ABASTERO VACIO V PARAGUAY</td>
+<td>42.390000</td>
+<td>3190.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>135224</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>ASIENTO VACIO V PARAGUAY</td>
+<td>40.560000</td>
+<td>4950.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>200772</td>
+</tr>
+<tr>
+<td></td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>POSTA NEGRA VACIO V PARAGUAY</td>
+<td>41.740000</td>
+<td>3950.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>164873</td>
+</tr>
+<tr>
+<td></td>
+<td>4</td>
+<td></td>
+<td></td>
+<td>POSTA ROSADA VACIO V PARAGUAY</td>
+<td>241.650000</td>
+<td>3950.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>954518</td>
+</tr>
+<tr>
+<td></td>
+<td>5</td>
+<td></td>
+<td></td>
+<td>TAPAPECHO VACIO V PARAGUAY</td>
+<td>112.050000</td>
+<td>2990.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>335030</td>
+</tr>
+<tr>
+<td></td>
+<td>6</td>
+<td></td>
+<td></td>
+<td>LOMO VETADO VACIO V PARAGUAY</td>
+<td>30.940000</td>
+<td>5490.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>169861</td>
+</tr>
+<tr>
+<td></td>
+<td>7</td>
+<td></td>
+<td></td>
+<td>PUNTA PICANA VACIO V PARAGUAY</td>
+<td>34.500000</td>
+<td>3690.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>127305</td>
+</tr>
+<tr>
+<td></td>
+<td>8</td>
+<td></td>
+<td></td>
+<td>SOBRECOSTILLA VACIO V PARAGUAY</td>
+<td>54.630000</td>
+<td>3090.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>168807</td>
+</tr>
+<tr>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td>GUATA EXTENDIDA CHILE</td>
+<td>28.970000</td>
+<td>2550.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>73874</td>
+</tr>
+<tr><td></td></tr>
+<tr>
+<td><b>TipoDTE</b></td>
+<td><b>Folio</b></td>
+<td><b>FechaEmision</b></td>
+<td><b>TipoDespacho</b></td>
+<td><b>FormaPago</b></td>
+<td><b>RutEmisor</b></td>
+<td><b>RazonSocialEmisor</b></td>
+<td><b>GiroEmisor</b></td>
+<td><b>Acteco</b></td>
+<td><b>CodSIISucursal</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>RutReceptor</b></td>
+<td><b>RazonSocialReceptor</b></td>
+<td><b>GiroReceptor</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>Total-Neto</b></td>
+<td><b>Total-Exento</b></td>
+<td><b>Total-IVA</b></td>
+<td><b>Total-MontoTotal</b></td>
+<td><b>MontoPeriodo</b></td>
+<td><b>Monto-NoFacturable</b></td>
+<td><b>Saldo-Anterior</b></td>
+<td><b>ValorPagar</b></td>
+</tr>
+<tr>
+<td>61</td>
+<td>690</td>
+<td>2017-05-02</td>
+<td></td>
+<td></td>
+<td>76308918-5</td>
+<td>COMERCIAL CATERBEEF COMPANIA LIMITADA</td>
+<td>COMERC CONSIG Y COMISION DE PRODUC CARNICOS AL MAYOR Y MENOR EVENTOS</td>
+<td>512220</td>
+<td></td>
+<td>5 NORTE 307</td>
+<td>VINA DEL MAR</td>
+<td>VINA DEL MAR</td>
+<td>9717858-5</td>
+<td>JAIME DO SANTOS PALOMINOS RODRIGUEZ</td>
+<td>VENTA AL POR MENOR DE CARNES</td>
+<td>CHACABUCO 349</td>
+<td>SAN FELIPE</td>
+<td>SAN FELIPE</td>
+<td>2408472</td>
+<td></td>
+<td>457610</td>
+<td>2866082</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>DETALLE</b></td>
+<td><b>Item</b></td>
+<td><b>Cod</b></td>
+<td><b>Codigo</b></td>
+<td><b>Descripcion</b></td>
+<td><b>Cantidad</b></td>
+<td><b>Precio</b></td>
+<td><b>Descuento %</b></td>
+<td><b>Descuento $</b></td>
+<td><b>Cod.ImptoAdic</b></td>
+<td><b>Monto-Item</b></td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>ABASTERO VACIO V PARAGUAY</td>
+<td>42.390000</td>
+<td>3190.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>135224</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>ASIENTO VACIO V PARAGUAY</td>
+<td>40.560000</td>
+<td>4950.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>200772</td>
+</tr>
+<tr>
+<td></td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>POSTA ROSADA VACIO V PARAGUAY</td>
+<td>41.740000</td>
+<td>3950.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>164873</td>
+</tr>
+<tr>
+<td></td>
+<td>4</td>
+<td></td>
+<td></td>
+<td>POSTA NEGRA VACIO V PARAGUAY</td>
+<td>261.450000</td>
+<td>3950.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>1032726</td>
+</tr>
+<tr>
+<td></td>
+<td>5</td>
+<td></td>
+<td></td>
+<td>TAPAPECHO VACIO V PARAGUAY</td>
+<td>112.050000</td>
+<td>2990.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>335030</td>
+</tr>
+<tr>
+<td></td>
+<td>6</td>
+<td></td>
+<td></td>
+<td>LOMO VETADO VACIO V PARAGUAY</td>
+<td>30.940000</td>
+<td>5490.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>169861</td>
+</tr>
+<tr>
+<td></td>
+<td>7</td>
+<td></td>
+<td></td>
+<td>PUNTA PICANA VACIO V PARAGUAY</td>
+<td>34.500000</td>
+<td>3690.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>127305</td>
+</tr>
+<tr>
+<td></td>
+<td>8</td>
+<td></td>
+<td></td>
+<td>SOBRECOSTILLA VACIO V PARAGUAY</td>
+<td>54.630000</td>
+<td>3090.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>168807</td>
+</tr>
+<tr>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td>GUATA EXTENDIDA CHILE</td>
+<td>28.970000</td>
+<td>2550.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>73874</td>
+</tr>
+<tr><td></td></tr>
+<tr>
+<td><b>TipoDTE</b></td>
+<td><b>Folio</b></td>
+<td><b>FechaEmision</b></td>
+<td><b>TipoDespacho</b></td>
+<td><b>FormaPago</b></td>
+<td><b>RutEmisor</b></td>
+<td><b>RazonSocialEmisor</b></td>
+<td><b>GiroEmisor</b></td>
+<td><b>Acteco</b></td>
+<td><b>CodSIISucursal</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>RutReceptor</b></td>
+<td><b>RazonSocialReceptor</b></td>
+<td><b>GiroReceptor</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>Total-Neto</b></td>
+<td><b>Total-Exento</b></td>
+<td><b>Total-IVA</b></td>
+<td><b>Total-MontoTotal</b></td>
+<td><b>MontoPeriodo</b></td>
+<td><b>Monto-NoFacturable</b></td>
+<td><b>Saldo-Anterior</b></td>
+<td><b>ValorPagar</b></td>
+</tr>
+<tr>
+<td>33</td>
+<td>8689</td>
+<td>2017-05-02</td>
+<td></td>
+<td></td>
+<td>76308918-5</td>
+<td>COMERCIAL CATERBEEF COMPANIA LIMITADA</td>
+<td>COMERC CONSIG Y COMISION DE PRODUC CARNICOS AL MAYOR Y MENOR EVENTOS</td>
+<td>512220</td>
+<td></td>
+<td>5 NORTE 307</td>
+<td>VINA DEL MAR</td>
+<td>VINA DEL MAR</td>
+<td>9717858-5</td>
+<td>JAIME DO SANTOS PALOMINOS RODRIGUEZ</td>
+<td>VENTA AL POR MENOR DE CARNES</td>
+<td>CHACABUCO 349</td>
+<td>SAN FELIPE</td>
+<td>SAN FELIPE</td>
+<td>2408472</td>
+<td>0</td>
+<td>457610</td>
+<td>2866082</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>DETALLE</b></td>
+<td><b>Item</b></td>
+<td><b>Cod</b></td>
+<td><b>Codigo</b></td>
+<td><b>Descripcion</b></td>
+<td><b>Cantidad</b></td>
+<td><b>Precio</b></td>
+<td><b>Descuento %</b></td>
+<td><b>Descuento $</b></td>
+<td><b>Cod.ImptoAdic</b></td>
+<td><b>Monto-Item</b></td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>ABASTERO VACIO V PARAGUAY</td>
+<td>42.390000</td>
+<td>3190.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>135224</td>
+</tr>
+<tr>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>ASIENTO VACIO V PARAGUAY</td>
+<td>40.560000</td>
+<td>4950.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>200772</td>
+</tr>
+<tr>
+<td></td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>POSTA ROSADA VACIO V PARAGUAY</td>
+<td>41.740000</td>
+<td>3950.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>164873</td>
+</tr>
+<tr>
+<td></td>
+<td>4</td>
+<td></td>
+<td></td>
+<td>POSTA NEGRA VACIO V PARAGUAY</td>
+<td>261.450000</td>
+<td>3950.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>1032728</td>
+</tr>
+<tr>
+<td></td>
+<td>5</td>
+<td></td>
+<td></td>
+<td>TAPAPECHO VACIO V PARAGUAY</td>
+<td>112.050000</td>
+<td>2990.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>335030</td>
+</tr>
+<tr>
+<td></td>
+<td>6</td>
+<td></td>
+<td></td>
+<td>LOMO VETADO VACIO V PARAGUAY</td>
+<td>30.940000</td>
+<td>5490.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>169861</td>
+</tr>
+<tr>
+<td></td>
+<td>7</td>
+<td></td>
+<td></td>
+<td>PUNTA PICANA VACIO V PARAGUAY</td>
+<td>34.500000</td>
+<td>3690.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>127305</td>
+</tr>
+<tr>
+<td></td>
+<td>8</td>
+<td></td>
+<td></td>
+<td>SOBRECOSTILLA VACIO V PARAGUAY</td>
+<td>54.630000</td>
+<td>3090.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>168807</td>
+</tr>
+<tr>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td>GUATA EXTENDIDA CHILE</td>
+<td>28.970000</td>
+<td>2550.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>73874</td>
+</tr>
+<tr><td></td></tr>
+<tr>
+<td><b>TipoDTE</b></td>
+<td><b>Folio</b></td>
+<td><b>FechaEmision</b></td>
+<td><b>TipoDespacho</b></td>
+<td><b>FormaPago</b></td>
+<td><b>RutEmisor</b></td>
+<td><b>RazonSocialEmisor</b></td>
+<td><b>GiroEmisor</b></td>
+<td><b>Acteco</b></td>
+<td><b>CodSIISucursal</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>RutReceptor</b></td>
+<td><b>RazonSocialReceptor</b></td>
+<td><b>GiroReceptor</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>Total-Neto</b></td>
+<td><b>Total-Exento</b></td>
+<td><b>Total-IVA</b></td>
+<td><b>Total-MontoTotal</b></td>
+<td><b>MontoPeriodo</b></td>
+<td><b>Monto-NoFacturable</b></td>
+<td><b>Saldo-Anterior</b></td>
+<td><b>ValorPagar</b></td>
+</tr>
+<tr>
+<td>52</td>
+<td>12621</td>
+<td>2017-05-02</td>
+<td></td>
+<td></td>
+<td>11423157-6</td>
+<td>JORGE HECTOR VEGA MEZA</td>
+<td>FABRICA DE PAN ALMACENES PEQUENOS FRUTAS Y VERDURASCONFIT</td>
+<td>154110</td>
+<td>076391454</td>
+<td>VICENTE SUAO CUETO 2117   EL SENORIAL</td>
+<td>SAN FELIPE</td>
+<td>SAN FELIPE</td>
+<td>9717858-5</td>
+<td>JAIME DO SANTOS PALOMINOS RODRIGUEZ</td>
+<td>VENTA AL POR MENOR DE CARNES (ROJAS, BLA</td>
+<td>CHACABUCO 349</td>
+<td>SAN FELIPE</td>
+<td>SAN FELIPE</td>
+<td>3361</td>
+<td></td>
+<td>639</td>
+<td>4000</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>DETALLE</b></td>
+<td><b>Item</b></td>
+<td><b>Cod</b></td>
+<td><b>Codigo</b></td>
+<td><b>Descripcion</b></td>
+<td><b>Cantidad</b></td>
+<td><b>Precio</b></td>
+<td><b>Descuento %</b></td>
+<td><b>Descuento $</b></td>
+<td><b>Cod.ImptoAdic</b></td>
+<td><b>Monto-Item</b></td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>PAN CORRIENTE</td>
+<td>5.00</td>
+<td>672.26</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3361</td>
+</tr>
+<tr><td></td></tr>
+<tr>
+<td><b>TipoDTE</b></td>
+<td><b>Folio</b></td>
+<td><b>FechaEmision</b></td>
+<td><b>TipoDespacho</b></td>
+<td><b>FormaPago</b></td>
+<td><b>RutEmisor</b></td>
+<td><b>RazonSocialEmisor</b></td>
+<td><b>GiroEmisor</b></td>
+<td><b>Acteco</b></td>
+<td><b>CodSIISucursal</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>RutReceptor</b></td>
+<td><b>RazonSocialReceptor</b></td>
+<td><b>GiroReceptor</b></td>
+<td><b>Direccion</b></td>
+<td><b>Comuna</b></td>
+<td><b>Ciudad</b></td>
+<td><b>Total-Neto</b></td>
+<td><b>Total-Exento</b></td>
+<td><b>Total-IVA</b></td>
+<td><b>Total-MontoTotal</b></td>
+<td><b>MontoPeriodo</b></td>
+<td><b>Monto-NoFacturable</b></td>
+<td><b>Saldo-Anterior</b></td>
+<td><b>ValorPagar</b></td>
+</tr>
+<tr>
+<td>52</td>
+<td>12599</td>
+<td>2017-05-01</td>
+<td></td>
+<td></td>
+<td>11423157-6</td>
+<td>JORGE HECTOR VEGA MEZA</td>
+<td>FABRICA DE PAN ALMACENES PEQUENOS FRUTAS Y VERDURASCONFIT</td>
+<td>154110</td>
+<td>076391454</td>
+<td>VICENTE SUAO CUETO 2117   EL SENORIAL</td>
+<td>SAN FELIPE</td>
+<td>SAN FELIPE</td>
+<td>9717858-5</td>
+<td>JAIME DO SANTOS PALOMINOS RODRIGUEZ</td>
+<td>VENTA AL POR MENOR DE CARNES (ROJAS, BLA</td>
+<td>CHACABUCO 349</td>
+<td>SAN FELIPE</td>
+<td>SAN FELIPE</td>
+<td>3361</td>
+<td></td>
+<td>639</td>
+<td>4000</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>DETALLE</b></td>
+<td><b>Item</b></td>
+<td><b>Cod</b></td>
+<td><b>Codigo</b></td>
+<td><b>Descripcion</b></td>
+<td><b>Cantidad</b></td>
+<td><b>Precio</b></td>
+<td><b>Descuento %</b></td>
+<td><b>Descuento $</b></td>
+<td><b>Cod.ImptoAdic</b></td>
+<td><b>Monto-Item</b></td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>PAN CORRIENTE</td>
+<td>5.00</td>
+<td>672.26</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3361</td>
+</tr>
+<tr><td></td></tr>
+</table>
